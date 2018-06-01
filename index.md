@@ -1,86 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Gaétan Martin
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Gaétan Martin
+Ingénieur de développement    
+29/06/1986  
+0685352563
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="orolol@protonmail.com">orolol@protonmail.com</a>
+| <a href="https://github.com/Orolol/">Mon github</a>
 </div>
 
 
-## Currently
+## Actuellement
 
-Standing on the shoulders of giants
+Ingénieur de développement chez Weborama
 
-### Specialized in
+### Spécialité
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Développement fullstack (JS, Go, Python, JAVA)
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2005 - 2010`
+__(in’Tech INFO groupe ESIEA) filière « Ingénierie Logicielle »__
 
-- Sizar
+- Technologue
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2005`
+__Baccalauréat S au lycée Ste Geneviève à Meaux (77)__
 
 
 
-## Awards
+## Experiences - CDI
 
-`2012`
-President, *Royal Society*, London, UK
+`11/2015 - Présent`
+Ingénieur de développement, *Weborama*  
+* Participation à plusieurs projets au sein de l'équipe R&D, dont des ajouts de fonctionnalités, refonte complète du front-end, administration de serveurs cloud.
+* Javascript (VueJS), Perl, Python  
 
-Associate, *French Academy of Science*, Paris, France
+`01/2015 - 11/2015`
+Consultant, *Aubay pour PACIFICA*  
+* Au sein de l’équipe OPEN, développement d’outils et d’applications fonctionnelles utilisé en interne par le réseau Pacifica et ses partenaires
+* Java, JEE, Struts, SweetDev, Spring MVC, Maven, Javascript  
+
+`01/2014 - 12/2014`
+Consultant, *Aubay pour COFELY INEO SYSTRANS*  
+* Dans le cadre du développement du Poste Central de NAVINEO, produit SAE IV (Système d’Aide à l’Exploitation et Informations Voyageurs de transports publics)
+* LINUX, JBOSS, ORACLE, JAVA  
+
+`01/2013 - 01/2014`
+Consultant, *Aubay pour BNP Paribas*  
+* Optimisation d’une application, comprenant une profonde refonte technique, un changement des services métiers, et un certain nombre d’évolutions fonctionnelles.
+* Java, JEE, Struts, SweetDev, Spring MVC, Maven, Javascript  
+
+`11/2011 - 01/2013` 
+Consultant, *Aubay pour ECOMETERING – GROUPE GDF-SUEZ*  
+* Développement web sur plusieurs applications, incluant des corrections, des évolutions et des modules supplémentaires concernant la télé-relève des compteurs de gaz
+* PHP 5, Javascript, CSS, Postgresql, Chartdirector, Symfony2   
 
 
+## Projets personnels
 
-## Publications
+`Jeux vidéo en GO`
+En cours de développement, un jeu vidéo multijouer sur navigateur [disponible sur mon github](https://github.com/Orolol/gogame).
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
