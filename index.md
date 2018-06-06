@@ -15,7 +15,7 @@ Ingénieur de développement
 
 ## Actuellement
 
-Ingénieur de développement chez Weborama
+Ingénieur de développement chez **Weborama**
 
 ### Spécialité
 
@@ -67,6 +67,15 @@ Consultant, *Aubay pour ECOMETERING – GROUPE GDF-SUEZ*
 
 `Jeux vidéo en GO`
 En cours de développement, un jeu vidéo multijouer sur navigateur [disponible sur mon github](https://github.com/Orolol/gogame).
+
+
+## Miscellanées
+
+`Autres expériences`
+6 mois de stage de fin d'études et 2 ans d'alternance en tant que développeur, 1 an et demi en tant que vendeur en boutique.  
+
+`Intérêts`
+Lecture, jeux vidéos, plongée sous marine, boxe.
 
 
 
