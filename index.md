@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Gaétan Martin
+title: 
 ---
 # Gaétan Martin
 Ingénieur de développement    
@@ -8,7 +8,7 @@ Ingénieur de développement
 0685352563
 
 <div id="webaddress">
-<a href="orolol@protonmail.com">orolol@protonmail.com</a>
+<a href="mailto:orolol@protonmail.com">orolol@protonmail.com</a>
 | <a href="https://github.com/Orolol/">Mon github</a>
 </div>
 
