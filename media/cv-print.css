@@ -142,10 +142,10 @@ body {
 
 p {
     position: relative;
-    left: 35%;
+    left: 28%;
     margin-bottom: 0.2em;
     margin-right: 0;
-    width: 65%;
+    width: 70%;
 }
 
 code {
@@ -154,7 +154,6 @@ code {
     /*line-height: 1em;*/
     font-family: Menlo, monospace, sans-serif;
     color: #ccc;
-    font-size: 11px;
 }
 
 p code {
