@@ -9,22 +9,23 @@ Ingénieur de développement
 
 <div id="webaddress">
 <a href="mailto:orolol@protonmail.com">orolol@protonmail.com</a>
-| <a href="https://github.com/Orolol/">Mon github</a>
+| <a href="https://github.com/Orolol/">Mon github : https://github.com/Orolol/</a>
 </div>
 
 
 ## Actuellement
 
-Ingénieur de développement chez **Weborama**, aussi bien sur des missions de web que de backend. En CDI depuis 7 ans et ayant utilisé de nombreux languages, je suis un développeur polyvalent et expérimenté. 
+Ingénieur de développement chez **Weborama**, aussi bien sur des missions de web que de backend.  
+En CDI depuis 7 ans et ayant utilisé de nombreux languages, je suis un développeur polyvalent et expérimenté. 
 
 ## Compétences
 
 ### Développement
 
 `Web` Javascript, NodeJS, VueJS, ReactJS, CSS, webpack  
-`Backend` GoLang, Python (2.7 et 3.5), Java
-`SGBD` MySQL, PostresQL, MongoDB
-`Outils` Atom, VSC, Eclipse
+`Backend` GoLang, Python (2.7 et 3.5), Java  
+`SGBD` MySQL, PostresQL, MongoDB  
+`Outils` Atom, VSC, Eclipse  
 
 ### Autres
 
