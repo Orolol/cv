@@ -1,7 +1,7 @@
 ---
 layout: cv
-title: 
 ---
+
 # Gaétan Martin
 Ingénieur de développement    
 29/06/1986  
@@ -15,11 +15,22 @@ Ingénieur de développement
 
 ## Actuellement
 
-Ingénieur de développement chez **Weborama**
+Ingénieur de développement chez **Weborama**, aussi bien sur des missions de web que de backend. En CDI depuis 7 ans et ayant utilisé de nombreux languages, je suis un développeur polyvalent et expérimenté. 
 
-### Spécialité
+## Compétences
 
-Développement fullstack (JS, Go, Python, JAVA)
+### Développement
+
+`Web` Javascript, NodeJS, VueJS, ReactJS, CSS, webpack  
+`Backend` GoLang, Python (2.7 et 3.5), Java
+`SGBD` MySQL, PostresQL, MongoDB
+`Outils` Atom, VSC, Eclipse
+
+### Autres
+
+`Gestion de projet` Méthode agile SCRUM, souvi, reporting, planing   
+`Outils` Gestion de ticket,   
+
 
 
 ## Education
@@ -72,16 +83,10 @@ En cours de développement, un jeu vidéo multijouer sur navigateur [disponible 
 ## Miscellanées
 
 `Autres expériences`
-6 mois de stage de fin d'études et 2 ans d'alternance en tant que développeur, 1 an et demi en tant que vendeur en boutique.  
+12 mois de stage de fin d'études (Pfizer) et 2 ans d'alternance en tant que développeur (Pixmania), 1 an et demi en tant que vendeur en boutique.  
 
 `Intérêts`
 Lecture, jeux vidéos, plongée sous marine, boxe.
 
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
