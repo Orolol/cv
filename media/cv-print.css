@@ -142,10 +142,10 @@ body {
 
 p {
     position: relative;
-    left: 28%;
+    left: 35%;
     margin-bottom: 0.2em;
     margin-right: 0;
-    width: 70%;
+    width: 60%;
 }
 
 code {
@@ -164,8 +164,8 @@ p code {
 
 ul {
     position: relative;
-    left: 28%;
-    width: 65%;
+    left: 35%;
+    width: 60%;
     margin-bottom: 1em;
     /*margin-top: -0.5em;*/
 }
