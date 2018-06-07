@@ -12,7 +12,6 @@ Ingénieur de développement
 | <a href="https://github.com/Orolol/">Mon github : https://github.com/Orolol/</a>
 </div>
 
-
 ## Actuellement
 
 Ingénieur de développement chez **Weborama**, aussi bien sur des missions de web que de backend.  
@@ -31,21 +30,6 @@ En CDI depuis 7 ans et ayant utilisé de nombreux languages, je suis un dévelop
 
 `Gestion de projet` Méthode agile SCRUM, souvi, reporting, planing   
 `Outils` Gestion de ticket,   
-
-
-
-## Education
-
-
-`2005 - 2010`
-__(in’Tech INFO groupe ESIEA) filière « Ingénierie Logicielle »__
-
-- Technologue
-
-`2005`
-__Baccalauréat S au lycée Ste Geneviève à Meaux (77)__
-
-
 
 ## Experiences - CDI
 
@@ -74,12 +58,20 @@ Consultant, *Aubay pour ECOMETERING – GROUPE GDF-SUEZ*
 * Développement web sur plusieurs applications, incluant des corrections, des évolutions et des modules supplémentaires concernant la télé-relève des compteurs de gaz
 * PHP 5, Javascript, CSS, Postgresql, Chartdirector, Symfony2   
 
+## Formation
+
+`2005 - 2010`
+__(in’Tech INFO groupe ESIEA) filière « Ingénierie Logicielle »__
+
+- Technologue
+
+`2005`
+__Baccalauréat S au lycée Ste Geneviève à Meaux (77)__
 
 ## Projets personnels
 
 `Jeux vidéo en GO`
 En cours de développement, un jeu vidéo multijouer sur navigateur [disponible sur mon github](https://github.com/Orolol/gogame).
-
 
 ## Miscellanées
 
