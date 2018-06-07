@@ -3,9 +3,10 @@ layout: cv
 ---
 
 # Gaétan Martin
-Ingénieur de développement    
-29/06/1986  
-0685352563
+Ingénieur de développement   
+Confirmé (7 ans d'expérience)  
+32 ans   
+06.85.35.25.63
 
 <div id="webaddress">
 <a href="mailto:orolol@protonmail.com">orolol@protonmail.com</a>
@@ -14,8 +15,8 @@ Ingénieur de développement
 
 ## Actuellement
 
-Ingénieur de développement chez **Weborama**, aussi bien sur des missions de web que de backend.  
-En CDI depuis 7 ans et ayant utilisé de nombreux languages, je suis un développeur polyvalent et expérimenté. 
+Ingénieur de développement chez **Weborama**, aussi bien sur des missions de développement web que de backend.  
+En CDI depuis 7 ans et ayant utilisé de nombreux languages, je suis un développeur polyvalent et expérimenté. J'ai piloté et participé à de nombreux projets.
 
 ## Compétences
 
@@ -28,8 +29,8 @@ En CDI depuis 7 ans et ayant utilisé de nombreux languages, je suis un dévelop
 
 ### Autres
 
-`Gestion de projet` Méthode agile SCRUM, souvi, reporting, planing   
-`Outils` Gestion de ticket,   
+`Gestion de projet` Méthode agile SCRUM, suivi, reporting, planning   
+`Outils` Gestion de ticket (Jira, redmine)   
 
 ## Experiences - CDI
 
