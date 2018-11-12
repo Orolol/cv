@@ -69,7 +69,7 @@ __(in’Tech INFO groupe ESIEA) filière « Software Engineer »__
 __Baccalauréat S at lycée Ste Geneviève à Meaux (77)__
 
 
-## Miscellanées
+## Miscellany
 
 `Other experiences`
 12 month long internship at Pfizer (Business analyst assistant), 2 years at Pixmania (PHP Developer).  
