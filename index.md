@@ -16,9 +16,7 @@ Senior fullstack software engineer
 Working as fullstack developer at **Weborama**, currently on a fronted project using VueJS.  
 Fulltime developer since 8 years, I used lot of different langages and frameworks, making me a polyvalent developer, used to learn quickly. Fluent in english, I worked in internationnal environement, and I worked with various project management methods.
 
-## Compétences
-
-### Skills
+## Skills
 
 `Web` Javascript,VueJS, ReactJS, CSS, modern JS dev tools (webpack, gulp, etc)  
 `Backend` GoLang, Python (2.7 et 3.5), NodeJS, (Java & PHP also, but at a lower skill level)  
