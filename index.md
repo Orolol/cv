@@ -3,7 +3,7 @@ layout: cv
 ---
 
 # Gaétan Martin
-Senior fullstack software engineer    
+## Senior fullstack software engineer    
 +3306.85.35.25.63
 
 <div id="webaddress">
