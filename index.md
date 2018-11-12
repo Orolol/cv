@@ -23,7 +23,7 @@ Fulltime developer since 8 years, I used lot of different langages and framework
 `SGBD` MySQL, PostresQL, MongoDB  
 `Project Management` Scrum & agile.
 
-## Experiences - CDI
+## Experiences - CDI 
 
 `11/2015 - Présent`
 Fullstack software engineer, *Weborama*  
