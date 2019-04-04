@@ -11,7 +11,7 @@ Senior fullstack software engineer
 | <a href="https://github.com/Orolol/">My github : https://github.com/Orolol/</a>
 </div>
 
-## Currently
+## Presentation
 
 Working as fullstack lead developer at **Weborama**, currently on a front-end project using VueJS.  
 Fulltime since 8 years, I used lot of different langages and frameworks, making me polyvalent, accustomed to learn quickly. French, speaking fluent english, I worked in internationnal environements, and with various project management methods, mostly in agile.
@@ -27,7 +27,7 @@ Fulltime since 8 years, I used lot of different langages and frameworks, making 
 
 `11/2015 - Présent`
 Fullstack software engineer, *Weborama*  
-* Lead developer in a front-end team, in charge of the a team for the redesign and maintenance of a VueJS application.
+* Lead developer in charge of a team for the redesign and maintenance of a VueJS application.
 * Part of various projects inside the R&D team, I refactored a key app frontend in VueJS and worked and maintaned python scripts on cloud servers.
 * Javascript (VueJS), Python, Perl  
 
