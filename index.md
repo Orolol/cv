@@ -13,13 +13,13 @@ Senior fullstack software engineer
 
 ## Currently
 
-Working as fullstack developer at **Weborama**, currently on a fronted project using VueJS.  
-Fulltime developer since 8 years, I used lot of different langages and frameworks, making me a polyvalent developer, used to learn quickly. Fluent in english, I worked in internationnal environement, and I worked with various project management methods.
+Working as fullstack lead developer at **Weborama**, currently on a front-end project using VueJS.  
+Fulltime since 8 years, I used lot of different langages and frameworks, making me polyvalent, accustomed to learn quickly. French, speaking fluent english, I worked in internationnal environements, and with various project management methods, mostly in agile.
 
 ## Skills
 
-`Web` Javascript,VueJS, ReactJS, CSS, modern JS dev tools (webpack, gulp, etc)  
-`Backend` GoLang, Python (2.7 et 3.5), NodeJS, (Java & PHP also, but at a lower skill level)  
+`Web` Javascript,VueJS , ReactJS, CSS, modern JS dev tools (webpack, gulp, etc)  
+`Backend` GoLang, Python (2.7 et 3.5), NodeJS, (Java, C# & PHP also, but at a lower skill level)  
 `SGBD` MySQL, PostresQL, MongoDB  
 `Project Management` Scrum & agile.
 
@@ -27,8 +27,9 @@ Fulltime developer since 8 years, I used lot of different langages and framework
 
 `11/2015 - Présent`
 Fullstack software engineer, *Weborama*  
+* Lead developer in a front-end team, in charge of the a team for the redesign and maintenance of a VueJS application.
 * Part of various projects inside the R&D team, I refactored a key app frontend in VueJS and worked and maintaned python scripts on cloud servers.
-* Javascript (VueJS), Python  
+* Javascript (VueJS), Python, Perl  
 
 `01/2015 - 11/2015`
 Consulting, *Aubay / PACIFICA*  
@@ -55,6 +56,12 @@ Consulting, *Aubay / ECOMETERING – GROUPE GDF-SUEZ*
 `Video Game`
 * Currently working on a multiplayer strategy game, playable on browser [here on my github](https://github.com/Orolol/gogame).
 * Golang 1.10, VueJS, ZeroMQ
+
+`Static websites`
+* Some statics websites for friends, mostly serverless VueJS.
+
+`Other`
+* Various project, either to train myself on new languages, or to explore some ideas (procedural generation in Unity, Machine learning in Python, etc.)
 
 ## Education
 
