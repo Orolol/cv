@@ -27,7 +27,7 @@ Développement fullstack (JS (Node/VueJS/React), Go, Python, Java)
 `11/2015 - Présent`
 Ingénieur de développement, *Weborama*  
 * Lead developer au sein de l'équipe front-end sur le projet BigFish. Refonte d'une application en VueJS. 
-* Participation à plusieurs projets au sein de l'équipe R&D, dont des ajouts de fonctionnalités, refonte complète du front-end, administration de serveurs cloud.
+* Participation à plusieurs projets au sein de l'équipe R&D, dont des ajouts de fonctionnalités, refonte complète du front-end, administration de serveurs cloud. 
 * Javascript (VueJS, d3), Perl, Python  
 
 `01/2015 - 11/2015`
