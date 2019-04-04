@@ -21,7 +21,7 @@ Fulltime since 8 years, I used lot of different langages and frameworks, making 
 `Web` Javascript,VueJS , ReactJS, CSS, modern JS dev tools (webpack, gulp, etc)  
 `Backend` GoLang, Python (2.7 et 3.5), NodeJS, (Java, C# & PHP also, but at a lower skill level)  
 `SGBD` MySQL, PostresQL, MongoDB  
-`Project Management` Scrum & agile.
+`Project Management` Scrum & agile. 
 
 ## Experiences - CDI 
 
