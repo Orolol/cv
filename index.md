@@ -3,7 +3,7 @@ layout: cv
 ---
 
 # Gaétan Martin
-Senior fullstack software engineer     
+Senior fullstack software engineer / Lead developer     
 +3306.85.35.25.63
 
 <div id="webaddress">
@@ -13,8 +13,8 @@ Senior fullstack software engineer
 
 ## Presentation
 
-Working as fullstack lead developer at **Weborama**, currently on a front-end project using VueJS.  
-Fulltime since 8 years, I used lot of different langages and frameworks, making me polyvalent, accustomed to learn quickly. French, speaking fluent english, I worked in internationnal environements, and with various project management methods, mostly in agile.
+Working as lead developer at **Weborama**, currently on a front-end project using VueJS.  
+Full-time since 8 years, I used lot of different languages and frameworks, making me polyvalent and accustomed to learn quickly. French, speaking fluent english, I worked in international environments and with various project management methods, mostly in agile.
 
 ## Skills
 
@@ -26,36 +26,40 @@ Fulltime since 8 years, I used lot of different langages and frameworks, making 
 ## Experiences - CDI 
 
 `11/2015 - Présent`
-Fullstack software engineer, *Weborama*  
+Fullstack software engineer / Lead Developer, *Weborama*  
 * Lead developer in charge of a team for the redesign and maintenance of a VueJS application.
 * Part of various projects inside the R&D team, I refactored a key app frontend in VueJS and worked and maintaned python scripts on cloud servers.
 * Javascript (VueJS), Python, Perl  
 
 `01/2015 - 11/2015`
-Consulting, *Aubay / PACIFICA*  
+Software engineer, *Aubay / PACIFICA*  
 * Working for the OPEN team, I developed internal tools wich interacted with the Pacifica network, partners, and mainframe data.
 * Java, JEE, Struts, SweetDev, Spring MVC, Maven, Javascript  
 
 `01/2014 - 12/2014`
-Consulting, *Aubay / COFELY INEO SYSTRANS*  
+Software engineer, *Aubay / COFELY INEO SYSTRANS*  
 * Developed some features (Ponctuality and reliability statistics) for the Central software responsible for bus traffic management, some refactor and bug smashing.
 * JBoss, Oracle, Java  
 
 `01/2013 - 01/2014`
-Consulting, *Aubay / BNP Paribas*  
+Software engineer, *Aubay / BNP Paribas*  
 * Various refactor and feature addition on a internal application.
 * Java, JEE, Struts, SweetDev, Spring MVC, Maven, Javascript  
 
 `11/2011 - 01/2013` 
-Consulting, *Aubay / ECOMETERING – GROUPE GDF-SUEZ*  
+Software engineer, *Aubay / ECOMETERING – GROUPE GDF-SUEZ*  
 * Added various features on a frontend B2B application for energy management and remote reading of gas meters.
 * PHP 5, Javascript, CSS, Postgresql, Chartdirector, Symfony2  
 
 ## Personnal projects
 
 `Video Game`
-* Currently working on a multiplayer strategy game, playable on browser [here on my github](https://github.com/Orolol/gogame).
-* Golang 1.10, VueJS, ZeroMQ
+* Currently working on a multiplayer strategy game, playable on browser (https://github.com/Orolol/gogame).
+* Golang 1.10 (gin gonic), VueJS, ZeroMQ
+
+`Blog platform`
+* Currently working on a blog platform, with a full CMS, comment management, and dynamic structure.
+* Golang 1.12 (gin gonic), VueJS
 
 `Static websites`
 * Some statics websites for friends, mostly serverless VueJS.
