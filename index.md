@@ -79,4 +79,4 @@ En cours de développement, un jeu vidéo multijouer sur navigateur [disponible 
 12 mois de stage de fin d'études (Pfizer) et 2 ans d'alternance en tant que développeur (Pixmania), 1 an et demi en tant que vendeur en boutique.
 
 `Intérêts`
-Philosophie, sociologie, jeux vidéo.
+Philosophie, sociologie et jeux vidéo.
