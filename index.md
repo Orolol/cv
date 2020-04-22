@@ -4,7 +4,7 @@ layout: cv
 
 # Gaétan Martin
 
-Ingénieur de développement fullstack senior- Chef d'équipe technique  
+Ingénieur de développement fullstack senior - Chef d'équipe technique  
 33 ans  
 06.85.35.25.63
 
