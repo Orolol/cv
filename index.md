@@ -15,7 +15,7 @@ Ingénieur de développement fullstack senior- Chef d'équipe technique
 
 ## Actuellement
 
-Ingénieur de développement chez **Weborama**, aussi bien sur des missions de développement web que de backend.  
+Actuellement chef d'équipe technique chez **Weborama**, aussi bien sur des missions de développement web que de backend.  
 En CDI depuis 9 ans et ayant utilisé de nombreux languages, je suis un développeur polyvalent et expérimenté. J'ai piloté et participé à de nombreux projets.
 
 ## Compétences
