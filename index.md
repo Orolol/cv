@@ -3,80 +3,89 @@ layout: cv
 ---
 
 # Gaétan Martin
-
-Ingénieur de développement fullstack senior - Chef d'équipe technique  
-33 ans  
-06.85.35.25.63
+Senior fullstack software engineer / Lead developer     
++3306.85.35.25.63
 
 <div id="webaddress">
-<a href="mailto:gaetan@0r0.fr">gaetan@0r0.fr</a>
-| <a href="https://github.com/Orolol/">Mon github : https://github.com/Orolol/</a>
+<a href="mailto:orolol@protonmail.com">orolol@protonmail.com</a>
+| <a href="https://github.com/Orolol/">My github : https://github.com/Orolol/</a>
 </div>
 
-## Actuellement
+## Presentation
 
-Actuellement chef d'équipe technique chez **Weborama**, aussi bien sur des missions de développement web que de backend.  
-En CDI depuis 9 ans et ayant utilisé de nombreux languages, je suis un développeur polyvalent et expérimenté. J'ai piloté et participé à de nombreux projets.
+Working as tech lead frontend at **Weborama**, currently on a front-end project using VueJS.  
+Full-time since 9 years, I used lot of different languages and frameworks, making me polyvalent and accustomed to learn quickly. French, speaking fluent english, I worked in international environments and with various project management methods, mostly in agile.
 
-## Compétences
+## Skills
 
 `Web` Javascript,VueJS , ReactJS, CSS, modern JS dev tools (webpack, gulp, etc)  
 `Backend` GoLang, Python (2.7 et 3.5), NodeJS, (Java, C# & PHP also, but at a lower skill level)  
 `SGBD` MySQL, PostresQL, MongoDB  
-`Project Management` Scrum & agile.
+`Project Management` Scrum & agile. 
 
-## Experiences - CDI
+## Experiences - CDI  
 
 `11/2015 - Présent`
-Ingénieur de développement puis chef d'équipe UI/UX, _Weborama_
-
-- Participation à plusieurs projets au sein de l'équipe R&D, dont des ajouts de fonctionnalités, refonte complète du front-end, administration de serveurs cloud.
-- Depuis 2 ans, prise en charge de l'équipe UI/UX dans le cadre de la refont commplète de plusieurs applications clef de l'entreprise et le passage a VueJS
-- Javascript (VueJS), Perl, Python
+Tech lead / Fullstack software engineer, *Weborama*  
+* Tech lead in charge of a team for the redesign and maintenance of a VueJS application.
+* Part of various projects inside the R&D team, I refactored a key app frontend in VueJS and worked and maintaned python scripts on cloud servers.
+* Javascript (VueJS, Vuex), Python, Perl  
 
 `01/2015 - 11/2015`
-Consultant, _Aubay pour PACIFICA_
-
-- Au sein de l’équipe OPEN, développement d’outils et d’applications fonctionnelles utilisé en interne par le réseau Pacifica et ses partenaires
-- Java, JEE, Struts, SweetDev, Spring MVC, Maven, Javascript
+Software engineer, *Aubay / PACIFICA*  
+* Working for the OPEN team, I developed internal tools wich interacted with the Pacifica network, partners, and mainframe data.
+* Java, JEE, Struts, SweetDev, Spring MVC, Maven, Javascript  
 
 `01/2014 - 12/2014`
-Consultant, _Aubay pour COFELY INEO SYSTRANS_
-
-- Dans le cadre du développement du Poste Central de NAVINEO, produit SAE IV (Système d’Aide à l’Exploitation et Informations Voyageurs de transports publics)
-- LINUX, JBOSS, ORACLE, JAVA
+Software engineer, *Aubay / COFELY INEO SYSTRANS*  
+* Developed some features (Ponctuality and reliability statistics) for the Central software responsible for bus traffic management, some refactor and bug smashing.
+* JBoss, Oracle, Java  
 
 `01/2013 - 01/2014`
-Consultant, _Aubay pour BNP Paribas_
+Software engineer, *Aubay / BNP Paribas*  
+* Various refactor and feature addition on a internal application.
+* Java, JEE, Struts, SweetDev, Spring MVC, Maven, Javascript  
 
-- Optimisation d’une application, comprenant une profonde refonte technique, un changement des services métiers, et un certain nombre d’évolutions fonctionnelles.
-- Java, JEE, Struts, SweetDev, Spring MVC, Maven, Javascript
+`11/2011 - 01/2013` 
+Software engineer, *Aubay / ECOMETERING – GROUPE GDF-SUEZ*  
+* Added various features on a frontend B2B application for energy management and remote reading of gas meters.
+* PHP 5, Javascript, CSS, Postgresql, Chartdirector, Symfony2  
 
-`11/2011 - 01/2013`
-Consultant, _Aubay pour ECOMETERING – GROUPE GDF-SUEZ_
+## Personnal projects
 
-- Développement web sur plusieurs applications, incluant des corrections, des évolutions et des modules supplémentaires concernant la télé-relève des compteurs de gaz
-- PHP 5, Javascript, CSS, Postgresql, Chartdirector, Symfony2
+`Video Game`
+* Currently working on a multiplayer strategy game, playable on browser (https://github.com/Orolol/gogame).
+* Golang 1.10 (gin gonic), VueJS, ZeroMQ
 
-## Formation
+`Blog platform`
+* Currently working on a blog platform, with a full CMS, comment management, and dynamic structure.
+* Golang 1.12 (gin gonic), VueJS
+
+`Static websites`
+* Some statics websites for friends, mostly serverless VueJS.
+
+`Other`
+* Various project, either to train myself on new languages, or to explore some ideas (procedural generation in Unity, Machine learning in Python, etc.)
+
+## Education
 
 `2005 - 2010`
-**(in’Tech INFO groupe ESIEA) filière « Ingénierie Logicielle »**
+__(in’Tech INFO groupe ESIEA) filière « Software Engineer »__
 
 - Technologue
 
 `2005`
-**Baccalauréat S au lycée Ste Geneviève à Meaux (77)**
+__Baccalauréat S at lycée Ste Geneviève à Meaux (77)__
 
-## Projets personnels
+## Miscellany
 
-`Jeux vidéo en GO`
-En cours de développement, un jeu vidéo multijouer sur navigateur [disponible sur mon github](https://github.com/Orolol/gogame).
+`Other experiences`
+12 month long internship at Pfizer (Business analyst assistant), 2 years at Pixmania (PHP Developer).  
 
-## Miscellanées
+`Interests`
+Sociology, philosophy, video games, scuba diving
 
-`Autres expériences`
-12 mois de stage de fin d'études (Pfizer) et 2 ans d'alternance en tant que développeur (Pixmania), 1 an et demi en tant que vendeur en boutique.
 
-`Intérêts`
-Philosophie, sociologie et jeux vidéo.
+
+
+
