@@ -3,7 +3,7 @@ layout: cv
 ---
 
 # Gaétan Martin
-Senior fullstack software engineer / Lead developer     
+Senior fullstack software engineer / Tech Lead   
 +3306.85.35.25.63
 
 <div id="webaddress">
@@ -38,7 +38,7 @@ Software engineer, *Aubay / PACIFICA*
 
 `01/2014 - 12/2014`
 Software engineer, *Aubay / COFELY INEO SYSTRANS*  
-* Developed some features (Ponctuality and reliability statistics) for the Central software responsible for bus traffic management, some refactor and bug smashing.
+* Developed some features (Ponctuality and reliability statistics) for the Central software responsible for bus trafic management, some refactor and bug smashing.
 * JBoss, Oracle, Java  
 
 `01/2013 - 01/2014`
