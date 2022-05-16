@@ -60,24 +60,24 @@ Software engineer, *Aubay / ECOMETERING – GROUPE GDF-SUEZ*
 
 ## Personnal projects
 
-`Video Game`
-* Currently working on a multiplayer strategy game, playable on browser (https://github.com/Orolol/gogame).
-* Golang 1.10 (gin gonic), VueJS, ZeroMQ
-
 `Blog platform`
 * Currently working on a blog platform, with a full CMS, comment management, and dynamic structure.
 * Golang 1.12 (gin gonic), VueJS
+
+`Video Game`
+* A multiplayer strategy game, playable on browser (https://github.com/Orolol/gogame).
+* Golang 1.10 (gin gonic), VueJS, ZeroMQ
 
 `Other`
 * Various project, either to train myself on new languages, or to explore some ideas (procedural generation in Unity, Machine learning in Python, etc.)
 
 ## Education
 
-`2020 - 2023``
-__(EHESS) Diplôme de l'EHESS en sociologie du travail (Mémore de recherche sur la méthode agile)__
+`2020 - 2023`
+__(EHESS) Diplôme de l'EHESS in sociology__
 
 `2005 - 2010`
-__(in’Tech INFO groupe ESIEA) filière « Software Engineer »__
+__(in’Tech INFO groupe ESIEA) as « Software Engineer »__
 
 - Technologue
 
