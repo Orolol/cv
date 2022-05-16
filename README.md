@@ -19,7 +19,7 @@ Full-time since 11 years, I used lot of different languages and frameworks, maki
 ## Skills
 
 `Web` Javascript, React, VueJS, CSS, modern JS dev tools (webpack, gulp, etc)  
-`Backend` GoLang, Python (2.7 et 3.5), NodeJS, (Java, C# & PHP also, but at a lower skill level)  
+`Backend` GoLang, Python (2.7 et 3.5), NodeJS, (Java, C#, PHP also, but at a lower skill level)  
 `SGBD` MySQL, PostresQL, MongoDB  
 `Project Management` ScrumMaster & agile. 
 
