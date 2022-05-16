@@ -8,7 +8,7 @@ Lead developer - Frontend - Fullstack
 
 <div id="webaddress">
 <a href="mailto:orolol@protonmail.com">orolol@protonmail.com</a>
-| <a href="https://github.com/Orolol/">My github : https://github.com/Orolol/</a>
+| <a href="https://github.com/Orolol/">My github => https://github.com/Orolol/</a>
 </div>
 
 ## Presentation
