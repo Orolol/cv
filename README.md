@@ -1,57 +1,93 @@
-markdown-cv
-===========
+---
+layout: cv
+---
 
-A curriculum vitae maintained in plain text and rendered to html and pdf using CSS.
+# Gaétan Martin
+Lead developer - Frontend - Fullstack
++3306.85.35.25.63
 
-For more details see the [project page](http://elipapa.github.io/markdown-cv) or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+<div id="webaddress">
+<a href="mailto:orolol@protonmail.com">orolol@protonmail.com</a>
+| <a href="https://github.com/Orolol/">My github => https://github.com/Orolol/</a>
+</div>
 
-***
+## Presentation
 
-## Usage
+Working as lead developer frontend at **Bluenove**, currently on a javascript project using React.  
+Full-time since 11 years, I used lot of different languages and frameworks, making me polyvalent and accustomed to learn quickly. French, speaking fluent english, I worked in international environments and with various project management methods, mostly in agile.
 
-To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+## Skills
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+`Web` Javascript, React, VueJS, CSS, modern JS dev tools (webpack, gulp, etc)  
+`Backend` GoLang, Python (2.7 et 3.5), NodeJS, (Java, C# & PHP also, but at a lower skill level)  
+`SGBD` MySQL, PostresQL, MongoDB  
+`Project Management` ScrumMaster & agile. 
 
-and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
+## Experiences - CDI  
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+`05/2021- Présent`
+Lead developer frontend / Scrum master, *Bluenove*  
+* Lead developer of a team of 4 other frontend
+* Partcipate to the design and development of many featere on the key app of the company 
+* Scrum master of the tech team
+* ReactJS, Styled Components  
 
-adding your skills, jobs and education.
+`11/2015 - 05/2021`
+Tech lead / Fullstack software engineer, *Weborama*  
+* Tech lead in charge of a team for the redesign and maintenance of a VueJS application.
+* Part of various projects inside the R&D team, I refactored a key app frontend in VueJS and worked and maintaned python scripts on cloud servers.
+* Javascript (VueJS, Vuex), Python, Perl  
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+`01/2015 - 11/2015`
+Software engineer, *Aubay / PACIFICA*  
+* Working for the OPEN team, I developed internal tools wich interacted with the Pacifica network, partners, and mainframe data.
+* Java, JEE, Struts, SweetDev, Spring MVC, Maven, Javascript  
 
-To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
+`01/2014 - 12/2014`
+Software engineer, *Aubay / COFELY INEO SYSTRANS*  
+* Developed some features (Ponctuality and reliability statistics) for the Central software responsible for bus trafic management, some refactor and bug smashing.
+* JBoss, Oracle, Java  
 
-## Using Github Pages to publish it online
+`01/2013 - 01/2014`
+Software engineer, *Aubay / BNP Paribas*  
+* Various refactor and feature addition on a internal application.
+* Java, JEE, Struts, SweetDev, Spring MVC, Maven, Javascript  
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
-2. Create a new branch called `gh-pages` (which will then be a copy of master)
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+`11/2011 - 01/2013` 
+Software engineer, *Aubay / ECOMETERING – GROUPE GDF-SUEZ*  
+* Added various features on a frontend B2B application for energy management and remote reading of gas meters.
+* PHP 5, Javascript, CSS, Postgresql, Chartdirector, Symfony2  
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+## Personnal projects
 
+`Video Game`
+* Currently working on a multiplayer strategy game, playable on browser (https://github.com/Orolol/gogame).
+* Golang 1.10 (gin gonic), VueJS, ZeroMQ
 
-## Build it locally and print a PDF
-1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
-2. Clone your fork on your computer
-3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
-4. You can edit the `index.md` file and see changes live in your browser.
-5. To print a PDF, just press *Print*. Print and web CSS media queries should take care of the styling.
+`Blog platform`
+* Currently working on a blog platform, with a full CMS, comment management, and dynamic structure.
+* Golang 1.12 (gin gonic), VueJS
 
+`Other`
+* Various project, either to train myself on new languages, or to explore some ideas (procedural generation in Unity, Machine learning in Python, etc.)
 
-### is this the only style available?
+## Education
 
-For the moment, yes.
-The included CSS renders CV in a style inspired by [kjhealy's vita template](https://github.com/kjhealy/kjh-vita), but any styling is possible. Contributions and forks are welcome!
+`2020 - 2023``
+__(EHESS) Diplôme de l'EHESS en sociologie du travail (Mémore de recherche sur la méthode agile)__
 
+`2005 - 2010`
+__(in’Tech INFO groupe ESIEA) filière « Software Engineer »__
 
-### Author
+- Technologue
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
+`2005`
+__Baccalauréat S at lycée Ste Geneviève à Meaux (77)__
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+## Miscellany
 
-### License
+`Other experiences`
+12 month long internship at Pfizer (Business analyst assistant), 2 years at Pixmania (PHP Developer).  
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+`Interests`
+Sociology, philosophy, video games, reading
