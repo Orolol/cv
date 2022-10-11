@@ -14,7 +14,7 @@ Lead developer - Frontend - Fullstack
 ## Presentation
 
 Working as lead developer frontend at **Bluenove**, currently on a Typescript project using React and NextJS.  
-Full-time since 11 years, I used lot of different languages and frameworks, making me polyvalent and accustomed to learn quickly. French, speaking fluent english, I worked in international environments and with various project management methods, mostly in agile. Current scrum master of my team, I'm also doing sociology research about Agile method for EHESS.
+Full-time since 11 years, I used lot of different languages and frameworks, making me polyvalent and accustomed to learn quickly. French, speaking fluent english, I worked in international environments and with various project management methods, mostly in agile. Current scrum master of my team, I'm also doing sociology research about Agile method for EHESS. 
 
 ## Skills
 
