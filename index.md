@@ -13,24 +13,27 @@ Lead developer - Frontend - Fullstack
 
 ## Presentation
 
-Working as lead developer frontend at **Bluenove**, currently on a javascript project using React.  
-Full-time since 11 years, I used lot of different languages and frameworks, making me polyvalent and accustomed to learn quickly. French, speaking fluent english, I worked in international environments and with various project management methods, mostly in agile.
+Working as lead developer frontend at **Bluenove**, currently on a Typescript project using React and NextJS.  
+Full-time since 11 years, I used lot of different languages and frameworks, making me polyvalent and accustomed to learn quickly. French, speaking fluent english, I worked in international environments and with various project management methods, mostly in agile. Current scrum master of my team, I'm also doing sociology research about Agile method for EHESS.
 
 ## Skills
 
-`Web` Javascript, React, VueJS, CSS, modern JS dev tools (webpack, gulp, etc)  
-`Backend` GoLang, Python (2.7 et 3.5), NodeJS, (Java, C#, PHP also, but at a lower skill level)  
+`Web` Typescript/Javascript, React, NextJS, VueJS, CSS 2-3
+`Libraires` D3.js, State management (Zustand, Context API, Vuex), MaterialUI, Styled Components
+`DevOps` Docker, Gitlab CI/CD, Jenkins 
+`Backend` GoLang, Python, NodeJS.
 `SGBD` MySQL, PostresQL, MongoDB  
-`Project Management` ScrumMaster & agile. 
+`Project Management` ScrumMaster & Agile project management. 
 
 ## Experiences - CDI  
 
 `05/2021- Présent`
-Lead developer frontend / Scrum master, *Bluenove*  
+Lead developer frontend and Scrum master, *Bluenove*  
 * Lead developer of a team of 4 other frontend
-* Partcipate to the design and development of many featere on the key app of the company 
+* Partcipate to the design and development of many features on the key app of the company (Assembl)
+* Manage the team and participate in the development of the survey application
 * Scrum master of the tech team
-* ReactJS, Styled Components  
+* Typescript, NextJS, ReactJS, Styled Components  
 
 `11/2015 - 05/2021`
 Tech lead / Fullstack software engineer, *Weborama*  
